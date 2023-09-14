@@ -85,7 +85,8 @@
 
 ## SOLID
 
-[Принципы S.O.L.I.D в картинках](https://badtry.net/printsypy-s-o-l-i-d-v-kartinkakh/)
+[Принципы S.O.L.I.D в картинках](https://badtry.net/printsypy-s-o-l-i-d-v-kartinkakh/)  
+[SOLID Army](https://pikabu.ru/story/solid_army_7082439)
 
 ### **_Single Responsibility Principle / Принцип единственной ответственности_**   
 Одна функция должна выполнять только одно законченное действие.  

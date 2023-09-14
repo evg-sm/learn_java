@@ -104,7 +104,9 @@ https://www.oracle.com/cis/database/what-is-a-relational-database/
 
 ### Непосредственно уровни изоляции:
 
-![The San Juan Mountains are beautiful!](/images/transaction_isolation_level.jpg)
+![Уровни изоляции 1](/images/transaction_isolation_1.jpg)
+
+![Уровни изоляции 2](/images/transaction_isolation_2.jpg)
 
 
 ### Как уровень изоляции транзакций влияет на производительность? 
