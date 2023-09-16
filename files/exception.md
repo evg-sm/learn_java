@@ -22,4 +22,4 @@ Throwable
   - IndexOutOfBoundsException
   - ArithmeticException  
 
-![Иерархия](/images/Exception.jpg)
+![Иерархия](/images/exception.jpg)
