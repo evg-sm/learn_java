@@ -7,7 +7,11 @@
 [Контракт equals и hashcode](files/equalsAndHashCode.md)  
 [Исключения](files/exception.md)  
 [Collections Framework](files/collections.md)  
+[Многопоточность](files/concurrency.md)  
 [Структура памяти в JAVA и сборка мусора](files/JMM_Garbage.md)  
 [Spring](files/spring.md)  
 [Springboot](files/springboot.md)  
-[Базы данных](files/db.md)
+
+[Базы данных](files/db.md)  
+
+[Алгоритмы - Big O](files/db.md)
