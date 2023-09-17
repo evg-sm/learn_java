@@ -14,4 +14,4 @@
 
 [Базы данных](files/db.md)  
 
-[Алгоритмы - Big O](files/db.md)
+[Алгоритмы - Big O](files/big_o.md)
