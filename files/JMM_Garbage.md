@@ -9,7 +9,7 @@
 ### Структура памяти в JAVA
 
 ![Структура памяти JAVA](/images/stackAndHeap.jpeg)  
-![Диаграмма](/images/java-heap-stack-diagram.png)  
+![Диаграмма](/images/java_heap_stack_diagram.png)  
 
 #### **_Память в Java делится на Stack и Heap._**
 

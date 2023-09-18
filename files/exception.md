@@ -21,12 +21,13 @@ Throwable
 
 - Exception
   - Checked - Обязательно надо перехватывать
-  - InterruptedException
-  - IOException
+    - InterruptedException
+    - IOException
+    - SQLException
   - Unchecked - Не обязательно перехватывать, хотя и можно
-  - NullPounterException
-  - NumberFormatException
-  - IndexOutOfBoundsException
-  - ArithmeticException  
+    - NullPointerException
+    - NumberFormatException
+    - IndexOutOfBoundsException
+    - ArithmeticException  
 
 ![Иерархия](/images/exception.jpg)
