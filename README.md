@@ -2,6 +2,8 @@
 
 [План обучения](files/learn_plan.md)  
 
+[Общие вопросы](files/common.md)
+
 [ООП -SOLID](files/oop-solid.md)  
 [Методы у класса Object](files/object.md)  
 [Контракт equals и hashcode](files/equalsAndHashCode.md)  
@@ -14,4 +16,6 @@
 
 [Базы данных](files/db.md)  
 
-[Алгоритмы - Big O](files/big_o.md)
+[Алгоритмы - Big O](files/big_o.md)  
+
+[Брокеры очередей](files/mq_broker.md)

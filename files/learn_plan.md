@@ -22,6 +22,8 @@
 [Java Spring. 33 лучших вопроса на собеседовании](https://www.sibinfo.ru/about/articles/java-spring-sobesedovanie.html)  
 [Spring: вопросы к собеседованию](https://habr.com/ru/post/350682/)  
 
+[Trunk Based Development — кто такой и зачем нужен](https://habr.com/ru/companies/avito/articles/680522/)  
+
 [Теория шардирования](https://habr.com/ru/companies/oleg-bunin/articles/433370/)  
 [Взаимная блокировка (deadlock) в Java и методы борьбы с ней](https://javarush.com/groups/posts/1422-vzaimnaja-blokirovkadeadlock-v-java-i-metodih-borjhbih-s-ney)  
 [Вилкой в глаз, или ForkJoinPool в Java](https://habr.com/ru/articles/565924/)  
