@@ -16,7 +16,9 @@
 [Гексагональная архитектура](https://habr.com/ru/articles/267125/)  
 
 [Собеседование Backend-Java-разработчика: вопросы и где искать ответы. Часть 1](https://habr.com/ru/post/529210/)  
-[Собеседование Backend-Java-разработчика: вопросы и где искать ответы. Часть 2](https://habr.com/ru/articles/529214/)
+[Собеседование Backend-Java-разработчика: вопросы и где искать ответы. Часть 2](https://habr.com/ru/articles/529214/)  
+
+[Github - Java интервью. Большой список вопросов](https://github.com/enhorse/java-interview)
 
 [Вопросы к собеседованию Java-backend, Java core (60 вопросов)](https://habr.com/ru/articles/485678/)
 [Java Spring. 33 лучших вопроса на собеседовании](https://www.sibinfo.ru/about/articles/java-spring-sobesedovanie.html)  
