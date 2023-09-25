@@ -17,6 +17,12 @@
 
 Classpath - набор путей java к классам.
 
+### Как заинжектить Prototype в Singleton
+[Injecting Prototype Beans into a Singleton](https://www.baeldung.com/spring-inject-prototype-bean-into-singleton)  
+- заинжектить ApplicationContext и из него доставать prototype bean
+- проставить аннотацию @Lookup наж методом
+- использовать интерфейс Provider
+
 ### Что такое bean Scope
 - singleton (по умолчанию) как и паттерн, создается в единственном экземпляре, все запросы вернут один и тот же объект
 - prototype каждое обращение к бину будет отдавать новый экземпляр объекта

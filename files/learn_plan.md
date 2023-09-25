@@ -9,26 +9,26 @@
 9. LeetCode
 10. Спортивное програмирование.
 
+
+### Вопросы на собеседовании:  
+[Собеседование Backend-Java-разработчика: вопросы и где искать ответы. Часть 1](https://habr.com/ru/post/529210/)  
+[Собеседование Backend-Java-разработчика: вопросы и где искать ответы. Часть 2](https://habr.com/ru/articles/529214/)
+[Вопросы и ответы для собеседования по Kotlin](https://habr.com/ru/articles/721084/)
+[Github - Java интервью. Большой список вопросов](https://github.com/enhorse/java-interview)  
+[Вопросы к собеседованию Java-backend, Java core (60 вопросов)](https://habr.com/ru/articles/485678/)  
+[Java Spring. 33 лучших вопроса на собеседовании](https://www.sibinfo.ru/about/articles/java-spring-sobesedovanie.html)
+[Spring: вопросы к собеседованию](https://habr.com/ru/post/350682/)
+
+### Обязательно прочитать:  
+[Теория шардирования](https://habr.com/ru/companies/oleg-bunin/articles/433370/)  
+[Сравнение подходов к реализации распределенных транзакций для микросервисов](https://habr.com/ru/articles/580090/)  
+
 ### Статьи:
 [New Features in Java 20](https://www.baeldung.com/java-20-new-features)  
 [GRASP паттерны проектирования](https://habr.com/ru/articles/92570/)  
 [Различия между ранним и поздним связыванием в Java](https://javarush.com/groups/posts/439-razlichija-mezhdu-rannim-i-pozdnim-svjazihvaniem-v-java)  
 [Гексагональная архитектура](https://habr.com/ru/articles/267125/)  
-
-[Собеседование Backend-Java-разработчика: вопросы и где искать ответы. Часть 1](https://habr.com/ru/post/529210/)  
-[Собеседование Backend-Java-разработчика: вопросы и где искать ответы. Часть 2](https://habr.com/ru/articles/529214/)  
-
-[Вопросы и ответы для собеседования по Kotlin](https://habr.com/ru/articles/721084/)  
-
-[Github - Java интервью. Большой список вопросов](https://github.com/enhorse/java-interview)
-
-[Вопросы к собеседованию Java-backend, Java core (60 вопросов)](https://habr.com/ru/articles/485678/)
-[Java Spring. 33 лучших вопроса на собеседовании](https://www.sibinfo.ru/about/articles/java-spring-sobesedovanie.html)  
-[Spring: вопросы к собеседованию](https://habr.com/ru/post/350682/)  
-
 [Trunk Based Development — кто такой и зачем нужен](https://habr.com/ru/companies/avito/articles/680522/)  
-
-[Теория шардирования](https://habr.com/ru/companies/oleg-bunin/articles/433370/)  
 [Взаимная блокировка (deadlock) в Java и методы борьбы с ней](https://javarush.com/groups/posts/1422-vzaimnaja-blokirovkadeadlock-v-java-i-metodih-borjhbih-s-ney)  
 [Вилкой в глаз, или ForkJoinPool в Java](https://habr.com/ru/articles/565924/)  
 [Synchronized vs Concurrent Collections](https://javarevisited.blogspot.com/2016/05/what-is-difference-between-synchronized.html)  
