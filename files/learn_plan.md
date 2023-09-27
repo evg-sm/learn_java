@@ -7,21 +7,25 @@
 7. JMM [Java Memory Model](https://javarush.com/quests/lectures/questservlets.level18.lecture02)
 8. WebFlux
 9. LeetCode
-10. Спортивное програмирование.
+10. Спортивное программирование.
 
 
 ### Вопросы на собеседовании:  
 [Собеседование Backend-Java-разработчика: вопросы и где искать ответы. Часть 1](https://habr.com/ru/post/529210/)  
-[Собеседование Backend-Java-разработчика: вопросы и где искать ответы. Часть 2](https://habr.com/ru/articles/529214/)
-[Вопросы и ответы для собеседования по Kotlin](https://habr.com/ru/articles/721084/)
+[Собеседование Backend-Java-разработчика: вопросы и где искать ответы. Часть 2](https://habr.com/ru/articles/529214/)  
+[Вопросы и ответы для собеседования по Kotlin](https://habr.com/ru/articles/721084/)  
+
 [Github - Java интервью. Большой список вопросов](https://github.com/enhorse/java-interview)  
 [Вопросы к собеседованию Java-backend, Java core (60 вопросов)](https://habr.com/ru/articles/485678/)  
-[Java Spring. 33 лучших вопроса на собеседовании](https://www.sibinfo.ru/about/articles/java-spring-sobesedovanie.html)
-[Spring: вопросы к собеседованию](https://habr.com/ru/post/350682/)
+[Java Spring. 33 лучших вопроса на собеседовании](https://www.sibinfo.ru/about/articles/java-spring-sobesedovanie.html)  
+[Spring: вопросы к собеседованию](https://habr.com/ru/post/350682/)  
 
 ### Обязательно прочитать:  
 [Теория шардирования](https://habr.com/ru/companies/oleg-bunin/articles/433370/)  
 [Сравнение подходов к реализации распределенных транзакций для микросервисов](https://habr.com/ru/articles/580090/)  
+[Справочник по синхронизаторам java.util.concurrent.*](https://habr.com/ru/articles/277669/)  
+[Основы контейнеризации (обзор Docker и Podman)](https://habr.com/ru/articles/659049/)  
+[Apache Kafka: основы технологии](https://habr.com/ru/companies/slurm/articles/550934/)  
 
 ### Статьи:
 [New Features in Java 20](https://www.baeldung.com/java-20-new-features)  

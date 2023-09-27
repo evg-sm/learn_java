@@ -1,6 +1,8 @@
 ### Полезные ссылки
 
-[Javarush - Ответы на вопросы к собеседованию](https://javarush.com/groups/posts/1611-otvetih-na-voprosih-k-sobesedovaniju-level27)  
+[Oracle - concurrency](https://docs.oracle.com/javase/tutorial/essential/concurrency/index.html)  
+
+[Javarush - Ответы на вопросы к собеседованию](https://javarush.com/groups/posts/1611-otvetih-na-voprosih-k-sobesedovaniju-level27)    
 [Javarush - Взаимная блокировка (deadlock) в Java и методы борьбы с ней](https://javarush.com/groups/posts/1422-vzaimnaja-blokirovkadeadlock-v-java-i-metodih-borjhbih-s-ney)  
 [Синхронизация потоков](http://www.skipy.ru/technics/synchronization.html)  
 [Habr - Глубокое погружение в Java Memory Model](https://habr.com/ru/articles/685518/)    

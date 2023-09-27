@@ -5,6 +5,7 @@
 [Общие вопросы](files/common.md)
 
 [ООП -SOLID](files/oop-solid.md)  
+[Java core](files/core.md)  
 [Методы у класса Object](files/object.md)  
 [Контракт equals и hashcode](files/equalsAndHashCode.md)  
 [Исключения](files/exception.md)  
@@ -18,4 +19,6 @@
 
 [Алгоритмы - Big O](files/big_o.md)  
 
-[Брокеры очередей](files/mq_broker.md)
+[Брокеры очередей](files/mq_broker.md)  
+
+[Обратная связь](files/feedback.md)  
