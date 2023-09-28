@@ -18,6 +18,7 @@
 [Базы данных](files/db.md)  
 
 [Алгоритмы - Big O](files/big_o.md)  
+[Алгоритмы](files/algorithms.md)  
 
 [Брокеры очередей](files/mq_broker.md)  
 
