@@ -26,6 +26,7 @@
 [Справочник по синхронизаторам java.util.concurrent.*](https://habr.com/ru/articles/277669/)  
 [Основы контейнеризации (обзор Docker и Podman)](https://habr.com/ru/articles/659049/)  
 [Apache Kafka: основы технологии](https://habr.com/ru/companies/slurm/articles/550934/)  
+[Хотели как в FAANG, а вышло как всегда или Опыт собеседования в Тинькофф в 3 актах](https://habr.com/ru/articles/582600/)  
 
 ### Статьи:
 [New Features in Java 20](https://www.baeldung.com/java-20-new-features)  

@@ -15,6 +15,8 @@
 [Spring](files/spring.md)  
 [Springboot](files/springboot.md)  
 
+[Шаблоны проектирования](files/patterns.md)
+
 [Базы данных](files/db.md)  
 
 [Алгоритмы - Big O](files/big_o.md)  
