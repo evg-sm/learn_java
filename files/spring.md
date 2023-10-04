@@ -13,9 +13,15 @@
 
 [Разница между @Component, @Service, @Repository и @Controller?](https://itsobes.ru/JavaSobes/kakie-otlichiia-mezhdu-component-service-repository-i-controller/)  
 
-### Что такое classpath
+### Что такое classpath  
 
 Classpath - набор путей java к классам.
+
+### Зачем нужен Spring/ Преимущества Spring  
+- Возможность гибко управлять контекстом приложения, например, с помощью профайлов.  
+- Возможность настраивать контекст с помощью классов конфигурации.
+- Возможность поднимать контекст при тестировании.
+- 
 
 ### Как заинжектить Prototype в Singleton
 [Injecting Prototype Beans into a Singleton](https://www.baeldung.com/spring-inject-prototype-bean-into-singleton)  

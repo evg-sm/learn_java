@@ -15,13 +15,18 @@
 [Spring](files/spring.md)  
 [Springboot](files/springboot.md)  
 
-[Шаблоны проектирования](files/patterns.md)
+[Шаблоны проектирования](files/patterns.md)  
+[Шаблоны микросервисов](files/micro_service.md)  
+[Чисты код](files/clean_code.md)  
 
 [Базы данных](files/db.md)  
+[Hibernate/JPA](files/hibernate.md)  
 
 [Алгоритмы - Big O](files/big_o.md)  
 [Алгоритмы](files/algorithms.md)  
 
 [Брокеры очередей](files/mq_broker.md)  
+
+[Docker](files/docker.md)  
 
 [Обратная связь](files/feedback.md)  
