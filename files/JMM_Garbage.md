@@ -5,8 +5,9 @@
 [Stack Memory and Heap Space](https://www.baeldung.com/java-stack-heap)  
 [What Is the Maximum Depth of the Java Call Stack?](https://www.baeldung.com/java-call-stack-max-depth)  
 [JVM Garbage Collectors](https://www.baeldung.com/jvm-garbage-collectors)  
+[Habr - Escape analysis и скаляризация: Пусть GC отдохнет](https://habr.com/ru/companies/jugru/articles/322348/)  
 
-### Структура памяти в JAVA
+## Структура памяти в JAVA
 
 ![Структура памяти JAVA](/images/stackAndHeap.jpeg)  
 ![Диаграмма](/images/java_heap_stack_diagram.png)  
@@ -93,8 +94,28 @@ Young разделен на три части: Eden, Survivor 0 и Survivor 1.
 Для освобождения неиспользуемых объектов и сохранения эффективности использования памяти требуется сборщик мусора._**
 - **_В отличие от Stack, Heap не является потокобезопасной и ее необходимо защищать путем правильной синхронизации кода._**
 
+### Где хранятся примитивные поля в классах, в Stack или в Heap?  
 
-### **_Сборка мусора_**
+```
+class User {
+   private int age;
+   private String name;
+
+   public void check(int id) {
+      int methodPrimitive = 1;
+      User user = new User();
+   }
+}
+```
+В приведенном примере:
+- **_age_** - поле класса, оно имеет примитивный тип и будет храниться там же, где и объект (экземпляр класса), т.е. в Heap.
+- **_name_** - поле класса, оно имеет ссылочный тип и будет храниться в Heap.
+- **_methodPrimitive_** - поле метода, оно имеет примитивный тип и будет храниться в Stack.
+- **_user_** - поле метода, оно имеет ссылочный тип и будет храниться в Stack, сам объект User будет храниться в Heap.
+
+
+
+## **_Сборка мусора_**
 
 **_Сборка мусора(Garbage Collection)_** - отслеживает каждый объект, доступный в пространстве Heap JVM, и удаляет неиспользуемые.  
 **_Мусором считается объект на который нет 'живых' ссылок._**

@@ -4,7 +4,7 @@
 
 [Общие вопросы](files/common.md)
 
-[ООП -SOLID](files/oop-solid.md)  
+[ООП - SOLID](files/oop-solid.md)  
 [Java core](files/core.md)  
 [Методы у класса Object](files/object.md)  
 [Контракт equals и hashcode](files/equalsAndHashCode.md)  
