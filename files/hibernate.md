@@ -10,4 +10,10 @@
 
 ### Какие типы Query бывают  
 
+### Типы связей между сущностями  
+- OneToOne
+- OneToMany
+- ManyToOne
+- ManyToMany
+
 ### Persistence context

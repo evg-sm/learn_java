@@ -96,7 +96,7 @@ Young разделен на три части: Eden, Survivor 0 и Survivor 1.
 
 ### Где хранятся примитивные поля в классах, в Stack или в Heap?  
 
-```
+```java
 class User {
    private int age;
    private String name;
