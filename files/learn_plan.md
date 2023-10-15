@@ -11,7 +11,11 @@
 
 #### Что дописать/почитать  
 1. вопросы по docker +
-2. паттерны микросервисов плюсы и минусы
+2. паттерны микросервисов плюсы и минусы +
+3. websocket java изучить/попрактиковаться
+4. @Async Spring
+5. Java Flight Recorder? https://habr.com/ru/companies/krista/articles/532632/
+3. HappensBefore
 3. hibernate
 4. паттерны проектирования
 5. начать изучать kuber

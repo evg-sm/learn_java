@@ -29,7 +29,7 @@ Docker Compose — это инструмент, который помогает 
 
 ### Как сделать docker образ с jar файлом?
 
-**_Базовый сценарий:_**  
+**_Через Dockerfile:_**  
 1. Создаем SpringBoot приложение.
 2. Создаем Dockerfile, например такой  
     ```dockerfile
@@ -58,6 +58,14 @@ RUN mvn clean package
 # set the startup command to execute the jar
 CMD ["java", "-jar", "target/demo-0.0.1-SNAPSHOT.jar"]
 ```  
+
+**_Через Buildpacks в spring-boot:_**  
+Buildpacks — это инструмент, который обеспечивает зависимости платформы и приложения.
+Например, при наличии толстого jar-файла Spring Boot пакет сборки предоставит нам среду выполнения Java. 
+Это позволяет нам пропустить Dockerfile и автоматически получить разумный образ Docker.
+```
+./mvnw spring-boot:build-image
+```
 
 ### Зачем нужен docker swarm?  
 Docker Swarm — это платформа оркестровки контейнеров с открытым исходным кодом, созданная и поддерживаемая компанией Docker. 
