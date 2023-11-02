@@ -8,9 +8,16 @@
 [Habr - Внутренняя работа HashMap в Java](https://habr.com/ru/articles/421179/)  
 [Особенности TreeMap в Java](https://javarush.com/groups/posts/2584-osobennosti-treemap)  
 
+
+### В каких случаях будет выброшен ConcurrentModificationException?  
+- В случае использования итератора.
+- В случае использования цикла for i исключение не будет выброшено.  
+
+
 ![Сложность-lists](/images/lists.jpg)  
 
-![Сложность-maps](/images/maps.jpg)  
+![Сложность-maps](/images/maps.jpg)
+
 
 ## Array - Массив  
 
