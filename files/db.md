@@ -1,7 +1,9 @@
 
 ### Полезные ссылки
 
-[Habr - Шпаргалка по SQL (postgres), которая выручает меня на собесах](https://habr.com/ru/articles/745948/)
+[Habr - Шпаргалка по SQL (postgres), которая выручает меня на собесах](https://habr.com/ru/articles/745948/)  
+[MVCC-1. Изоляция](https://habr.com/ru/companies/postgrespro/articles/442804/)  
+[MVCC-2. Слои, файлы, страницы](https://habr.com/ru/companies/postgrespro/articles/444536/)
 
 
 ### Проблема N+1  
