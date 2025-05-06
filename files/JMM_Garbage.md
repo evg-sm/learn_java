@@ -1,11 +1,12 @@
 ### Полезные ссылки
 
-[Habr - Управление памятью Java](https://habr.com/ru/amp/publications/549176/)  
-[Habr - Избавляемся от мусора в Java](https://habr.com/ru/companies/otus/articles/553996/)  
-[Stack Memory and Heap Space](https://www.baeldung.com/java-stack-heap)  
-[What Is the Maximum Depth of the Java Call Stack?](https://www.baeldung.com/java-call-stack-max-depth)  
-[JVM Garbage Collectors](https://www.baeldung.com/jvm-garbage-collectors)  
-[Habr - Escape analysis и скаляризация: Пусть GC отдохнет](https://habr.com/ru/companies/jugru/articles/322348/)  
+[# Habr - Управление памятью Java](https://habr.com/ru/amp/publications/549176/)  
+[# Habr - Избавляемся от мусора в Java](https://habr.com/ru/companies/otus/articles/553996/)  
+[# Stack Memory and Heap Space](https://www.baeldung.com/java-stack-heap)  
+[# What Is the Maximum Depth of the Java Call Stack?](https://www.baeldung.com/java-call-stack -max-depth)  
+[# JVM Garbage Collectors](https://www.baeldung.com/jvm-garbage-collectors)  
+[# Habr - Escape analysis и скаляризация: Пусть GC отдохнет](https://habr.com/ru/companies/jugru/articles/322348/)  
+[# Откуда растут ноги у Java Memory Model](https://habr.com/ru/articles/440590/)  
 
 ## Структура памяти в JAVA
 
