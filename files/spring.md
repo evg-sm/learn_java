@@ -13,6 +13,10 @@
 
 [Разница между @Component, @Service, @Repository и @Controller?](https://itsobes.ru/JavaSobes/kakie-otlichiia-mezhdu-component-service-repository-i-controller/)  
 
+[# Spring изнутри. Этапы инициализации контекста](https://habr.com/ru/articles/222579/)  
+
+[# Полное руководство по Spring](https://proselyte.net/tutorials/spring-tutorial-full-version/)  
+
 ### Что такое classpath  
 
 Classpath - набор путей java к классам.

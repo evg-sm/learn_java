@@ -1,10 +1,9 @@
 ## Изучаю java
 
 [План обучения](files/learn_plan.md)  
-
 [Общие вопросы](files/common.md)
-
 [ООП - SOLID](files/oop-solid.md)  
+[Вопросы на собеседовании](files/interview.md)  
 
 ## Java core
 [Java core](files/core.md)  

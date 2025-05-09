@@ -7,15 +7,16 @@
 [Синхронизация потоков](http://www.skipy.ru/technics/synchronization.html)  
 [Habr - Глубокое погружение в Java Memory Model](https://habr.com/ru/articles/685518/)    
 [What Is a Monitor in Computer Science?](https://www.baeldung.com/cs/monitor)  
-[Baeldung - wait and notify() Methods in Java](https://www.baeldung.com/java-wait-notify)  
 [Javarush - Многопоточность в Java: суть, «плюсы» и частые ловушки](https://javarush.com/groups/posts/1992-mnogopotochnostjh-v-java-sutjh-pljusih-i-chastihe-lovushki-)    
-[Baeldung - Guide to the Volatile Keyword in Java](https://www.baeldung.com/java-volatile)  
 [Habr - Введение в многопоточность в Java очень простым языком: Процессы, Потоки и Основы синхронизации](https://habr.com/ru/articles/745910/)    
 [Javarush - Управление потоками. Ключевое слово volatile и метод yield()](https://javarush.com/groups/posts/1998-upravlenie-potokami-metodih-volatile-i-yield)  
 [Habr - Многопоточность в Java. Работа с потоками](https://habr.com/ru/sandbox/167189/)  
+[Baeldung - Guide to the Volatile Keyword in Java](https://www.baeldung.com/java-volatile)  
+[Baeldung - wait and notify() Methods in Java](https://www.baeldung.com/java-wait-notify)  
 [Baeldung - A Guide to the Java ExecutorService](https://www.baeldung.com/java-executor-service-tutorial)  
 [Baeldung - Introduction to Thread Pools in Java](https://www.baeldung.com/thread-pool-java-and-guava)  
-
+[Baeldung - An Introduction to Atomic Variables in Java](https://www.baeldung.com/java-atomic-variables)  
+[Baeldung - An Introduction to ThreadLocal in Java](https://www.baeldung.com/java-threadlocal)  
 
 ### Монитор и синхронизация  
 
