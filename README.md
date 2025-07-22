@@ -30,7 +30,7 @@
 ## Работа с базами данных
 [Базы данных](files/db.md)  
 [Hibernate/JPA](files/hibernate.md)  
-[@Transactional](files/transactional.md)  # todo
+[@Transactional](Transactional.md)  # todo
 [Шардирование](files/sharding.md)  # todo
 
 [Алгоритмы - Big O](files/big_o.md)  
