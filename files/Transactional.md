@@ -1,3 +1,5 @@
+***Статья про прокси транзакций***:
+[# Spring Data — Transactional Caveats](https://dev.to/kirekov/spring-data-transactional-caveats-19di)
 
 ***Откат изменений дочерней транзакции, без отката родительской***:
 
