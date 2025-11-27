@@ -14,13 +14,14 @@
 [Исключения](files/exception.md)  
 [Collections Framework](files/collections.md)  
 [Многопоточность](files/concurrency.md)  
+[Виртуальные потоки в Java](files/concurrency.md)  # todo
 [Структура памяти в JAVA и сборка мусора](files/JMM_Garbage.md)  
 [Лямбда выражения](files/lambda.md)  # todo
 
 ## Kotlin
 [Coroutines](files/coroutines.md)  
 
-## Конкурентность & многопоточность & асинхронность
+## Конкурентность & многопоточность & асинхронность # todo
 ## Spring
 [Spring](files/spring.md)  
 [Springboot](files/springboot.md)  
@@ -33,7 +34,7 @@
 ## Работа с базами данных
 [Базы данных](files/db.md)  
 [Hibernate/JPA](files/hibernate.md)  
-[@Transactional](files/Transactional.md)
+[@Transactional](files/transactional.md)
 [Шардирование](files/sharding.md)  # todo
 
 [Алгоритмы - Big O](files/big_o.md)  

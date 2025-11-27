@@ -1,6 +1,8 @@
 ***Статья про прокси транзакций***:
 [# Spring Data — Transactional Caveats](https://dev.to/kirekov/spring-data-transactional-caveats-19di)
 
+[# Лучший способ использовать аннотацию Spring Transactional](https://habr.com/ru/companies/otus/articles/649093/)  
+
 ***Откат изменений дочерней транзакции, без отката родительской***:
 
 В случае если, изменения в БД, могут быть некорректно обработаны, например может сработать constraint на БД, следует использовать дочернюю транзакцию
