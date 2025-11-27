@@ -22,6 +22,8 @@
 https://vkvideo.ru/video-230033131_456239041?t=5m38s
 #todo
 
+some new text
+
 ### Монитор и синхронизация  
 
 [What Is a Monitor in Computer Science?](https://www.baeldung.com/cs/monitor)  
