@@ -18,8 +18,9 @@
 [Baeldung - An Introduction to Atomic Variables in Java](https://www.baeldung.com/java-atomic-variables)  
 [Baeldung - An Introduction to ThreadLocal in Java](https://www.baeldung.com/java-threadlocal)  
 
-todo Секреты Concurrency: от процессора до атомиков в Go | Полное руководство
+#todo Секреты Concurrency: от процессора до атомиков в Go | Полное руководство
 https://vkvideo.ru/video-230033131_456239041?t=5m38s
+#todo
 
 ### Монитор и синхронизация  
 
