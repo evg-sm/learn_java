@@ -1,3 +1,5 @@
+## Obsidian setting
+[Obsidian setting](obsidian.md)  
 ## Изучаю java
 
 [План обучения](files/learn_plan.md)  
