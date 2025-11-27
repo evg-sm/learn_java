@@ -18,6 +18,7 @@
 ## Kotlin
 [Coroutines](files/coroutines.md)  
 
+## Конкурентность & многопоточность & асинхронность
 ## Spring
 [Spring](files/spring.md)  
 [Springboot](files/springboot.md)  
@@ -30,7 +31,7 @@
 ## Работа с базами данных
 [Базы данных](files/db.md)  
 [Hibernate/JPA](files/hibernate.md)  
-[@Transactional](files/transactional.md)  # todo
+[@Transactional](files/Transactional.md)
 [Шардирование](files/sharding.md)  # todo
 
 [Алгоритмы - Big O](files/big_o.md)  
