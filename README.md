@@ -32,11 +32,11 @@
 [Чистый код](files/clean_code.md)  
 
 ## Работа с базами данных
-[Базы данных + Индексы](files/db.md)
-[Миграция данных](files/migration.md)
+[Базы данных + Индексы](files/db.md)  
+[Миграция данных](files/migration.md)  
 [Hibernate/JPA](files/hibernate.md)  
-[@Transactional](files/transactional.md)
-[Шардирование](files/sharding.md)  # todo
+[@Transactional](files/transactional.md)  
+[Шардирование](files/sharding.md)  # todo  
 
 [Алгоритмы - Big O](files/big_o.md)  
 [Алгоритмы](files/algorithms.md)  
