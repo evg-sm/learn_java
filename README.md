@@ -1,4 +1,4 @@
-## Obsidian setting
+## Настройка Obsidian
 [Obsidian setting](obsidian.md)  
 ## Изучаю java
 
