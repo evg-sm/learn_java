@@ -21,7 +21,9 @@
 ## Kotlin
 [Coroutines](files/coroutines.md)  
 
-## Конкурентность & многопоточность & асинхронность # todo
+## Конкурентность vs Многопоточность vs Асинхронность  
+[Конкурентность vs Многопоточность vs Асинхронность](files/miltithrdVsAsuncVsConcurr.md)  
+
 ## Spring
 [Spring](files/spring.md)  
 [Springboot](files/springboot.md)  
