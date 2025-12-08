@@ -16,8 +16,8 @@
 [Многопоточность](files/concurrency.md)  
 [Виртуальные потоки в Java](files/concurrency.md)  # todo
 [Структура памяти в JAVA и сборка мусора](files/JMM_Garbage.md)  
-[Лямбда выражения](files/lambda.md)  # todo
-
+[Лямбда выражения](files/lambda.md)  # todo  
+[Реактивное програмирование](files/lambda.md)  # todo  
 ## Kotlin
 [Coroutines](files/coroutines.md)  
 
