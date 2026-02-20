@@ -32,6 +32,7 @@
 [Шаблоны проектирования](files/patterns.md)  
 [Шаблоны микросервисов](files/micro_service.md)  
 [Чистый код](files/clean_code.md)  
+[Гексогональная архитектура](files/hegsoginal.md)  
 
 ## Работа с базами данных
 [Базы данных + Индексы](files/db.md)  
