@@ -35,12 +35,13 @@
 [Гексогональная архитектура](Hexagonal%20Architecture.md)  
 
 ## Базы данных
+[Архитектура POSTGESQL](postgresql_arch.md)  
 [Базы данных + Индексы](files/db.md)  
 [Explain](files/explain.md)  
 [Миграция данных](files/migration.md)  
 [Hibernate/JPA](files/hibernate.md)  
 [@Transactional](files/transactional.md)  
-[Шардирование и Партиционирование](files/sharding.md)  # todo  
+[Шардирование и Партиционирование](files/sharding.md)  
 
 [Алгоритмы - Big O](files/big_o.md)  
 [Алгоритмы](files/algorithms.md)  
