@@ -19,7 +19,7 @@
 [Лямбда выражения](files/lambda.md)  # todo  
 [Реактивное програмирование](files/lambda.md)  # todo  
 ## Kotlin
-[Coroutines](files/coroutines.md)  
+[Coroutines](files/coroutines.md)  # todo  
 
 ## Конкурентность vs Многопоточность vs Асинхронность  
 [Конкурентность vs Многопоточность vs Асинхронность](files/miltithrdVsAsuncVsConcurr.md)  
@@ -34,13 +34,13 @@
 [Чистый код](files/clean_code.md)  
 [Гексогональная архитектура](Hexagonal%20Architecture.md)  
 
-## Работа с базами данных
+## Базы данных
 [Базы данных + Индексы](files/db.md)  
 [Explain](files/explain.md)  
 [Миграция данных](files/migration.md)  
 [Hibernate/JPA](files/hibernate.md)  
 [@Transactional](files/transactional.md)  
-[Шардирование](files/sharding.md)  # todo  
+[Шардирование и Партиционирование](files/sharding.md)  # todo  
 
 [Алгоритмы - Big O](files/big_o.md)  
 [Алгоритмы](files/algorithms.md)  
