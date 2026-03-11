@@ -7,6 +7,9 @@
 [ООП - SOLID](files/oop-solid.md)  
 [Вопросы на собеседовании](files/interview.md)  
 
+## Общие вопросы  
+[JWT](files/jwt.md)  
+
 ## Java core
 [Java core](files/core.md)  
 [Методы у класса Object](files/object.md)  
