@@ -53,4 +53,7 @@
 
 [Docker](files/docker.md)  
 
+## AI
+[MCP](mcp.md)  
+
 [Обратная связь](files/feedback.md)  

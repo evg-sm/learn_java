@@ -1,0 +1,1 @@
+[# baeldung - Overview of MCP Annotations in Spring AI](https://www.baeldung.com/spring-ai-mcp-annotations)  
