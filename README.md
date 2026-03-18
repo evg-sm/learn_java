@@ -17,19 +17,19 @@
 [Исключения](files/exception.md)  
 [Collections Framework](files/collections.md)  
 [Многопоточность](files/concurrency.md)  
-[ThreadPools and Execotors](pools.md)  # todo forThreadPools and Execotors + синхронизаторы
+[ThreadPools and Execotors](pools.md)  #todo forThreadPools and Execotors + синхронизаторы
 [Вуальные потоки в Java](virtual_thread.md) 
 [Структура памяти в JAVA и сборка мусора](files/JMM_Garbage.md)  
-[Лямбда выражения](files/lambda.md)  # todo  
-[Реактивное програмирование](files/lambda.md)  # todo  
+[Лямбда выражения](files/lambda.md)  #todo  
+[Реактивное программирование](files/lambda.md)  # todo  
 ## Kotlin
-[Coroutines](files/coroutines.md)  # todo  дописать
-
+[Coroutines](files/coroutines.md)  #todo  дописать
+м
 ## Конкурентность vs Многопоточность vs Асинхронность  
 [Конкурентность vs Многопоточность vs Асинхронность](files/miltithrdVsAsuncVsConcurr.md)  
 
 ## Spring
-[Spring](files/spring.md)  
+[Spring](files/spring.md)  #todo  @Async
 [Springboot](files/springboot.md)  
 
 ## Шаблоны
