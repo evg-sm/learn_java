@@ -8,7 +8,7 @@
 [Вопросы на собеседовании](files/interview.md)  
 
 ## Общие вопросы  
-[JWT](files/jwt.md)  
+[JWT](jwt.md)  
 
 ## Java core
 [Java core](files/core.md)  
@@ -17,12 +17,13 @@
 [Исключения](files/exception.md)  
 [Collections Framework](files/collections.md)  
 [Многопоточность](files/concurrency.md)  
-[Виртуальные потоки в Java](virtual_thread.md) 
-[Структура . амяти в JAVA и сборка мусора](files/JMM_Garbage.md)  
+[ThreadPools and Execotors](pools.md)  # todo forThreadPools and Execotors
+[Вуальные потоки в Java](virtual_thread.md) 
+[Структура памяти в JAVA и сборка мусора](files/JMM_Garbage.md)  
 [Лямбда выражения](files/lambda.md)  # todo  
 [Реактивное програмирование](files/lambda.md)  # todo  
 ## Kotlin
-[Coroutines](files/coroutines.md)  # todo  
+[Coroutines](files/coroutines.md)  # todo  дописать
 
 ## Конкурентность vs Многопоточность vs Асинхронность  
 [Конкурентность vs Многопоточность vs Асинхронность](files/miltithrdVsAsuncVsConcurr.md)  
