@@ -17,7 +17,7 @@
 [Исключения](files/exception.md)  
 [Collections Framework](files/collections.md)  
 [Многопоточность](files/concurrency.md)  
-[ThreadPools and Execotors](pools.md)  # todo forThreadPools and Execotors
+[ThreadPools and Execotors](pools.md)  # todo forThreadPools and Execotors + синхронизаторы
 [Вуальные потоки в Java](virtual_thread.md) 
 [Структура памяти в JAVA и сборка мусора](files/JMM_Garbage.md)  
 [Лямбда выражения](files/lambda.md)  # todo  
