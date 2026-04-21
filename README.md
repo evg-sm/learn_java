@@ -10,6 +10,7 @@
 ## Общие вопросы  
 [JWT](jwt.md)  
 [jsr305](jsr305.md)  
+[Что такое tier](tier.md)  
 ## Java core
 [Java core](files/core.md)  
 [Методы у класса Object](files/object.md)  
