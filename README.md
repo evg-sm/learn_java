@@ -17,6 +17,7 @@
 [Контракт equals и hashcode](files/equalsAndHashCode.md)  
 [Исключения](files/exception.md)  
 [Collections Framework](files/collections.md)  
+[Fail-Fast и Fail-Safe итераторы в Java](files/fail-fast-fail-safe-iterators.md)  
 [Многопоточность](files/concurrency.md)  
 [ThreadPools and Execotors](pools.md)  #todo forThreadPools and Execotors + синхронизаторы
 [Вуальные потоки в Java](virtual_thread.md) 
